@@ -1,4 +1,4 @@
 # reunion-wepdraw
-A simple FiveM script for Reunion Roleplay server.
+A simple FiveM resource for Reunion Roleplay server.
 
 Just drag and drop.
